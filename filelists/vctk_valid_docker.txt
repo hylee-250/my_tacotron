@@ -1,0 +1,183 @@
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p225/p225_352.wav|He was then replaced by Ross.|0|0|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p225/p225_353.wav|THE pain was almost too much to bear.|0|0|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p225/p225_354.wav|This action reflects a slump in bookings.|0|0|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p225/p225_355.wav|Her husband was very concerned that it might be fatal.|0|0|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p225/p225_356.wav|I said he was set to retire.|0|0|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p225/p225_357.wav|It is a sign of hope.|0|0|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p225/p225_358.wav|The commitment was not long, and it was worth the risk.|0|0|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p225/p225_359.wav|But we welcome this document.|0|0|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p225/p225_363.wav|There is The Beautiful Game to write.|0|0|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p225/p225_365.wav|You did not see it.|0|0|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p225/p225_366.wav|It is linked to the row over proposed changes at Scottish Ballet.|0|0|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_354.wav|That is a break with tradition.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_355.wav|A spokeswoman for Edinburgh City Council confirmed its support for the company.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_356.wav|She is free.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_357.wav|I kept going for her.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_358.wav|You must have a government and a good civil service.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_359.wav|He's very explosive.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_360.wav|No other job in world football can compare to this one.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_361.wav|Our numbers are small.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_362.wav|Six of the asylum seekers left the offices, it was reported.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_363.wav|Mr Anderson was not acting in the course of his employment.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_364.wav|This is a club on the rise.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_365.wav|I have got a wife to feed.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_366.wav|It's not pretty, but it's effective.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_367.wav|Equity declined to comment.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_368.wav|All the investment is possible through the public sector.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_369.wav|He took over our lives.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p226/p226_370.wav|Saddam is not the only example of evil in our world.|0|1|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_384.wav|He is in the queue.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_385.wav|The salary changes are long overdue.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_386.wav|I do not like to lose.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_387.wav|I am a member of the Labour Party staff.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_388.wav|There is no deal as yet.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_389.wav|In due course the deal was done.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_390.wav|Celtic were pleased to help.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_391.wav|They will fight for everything.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_392.wav|That's not like us at all.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_393.wav|You have to rely on each other.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_394.wav|I wanted to go out on a high.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_395.wav|I felt the head was very like me.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_396.wav|It is a terrible equation.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_397.wav|They have not got anyone.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_398.wav|I can hardly believe it.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_399.wav|How do you take them away ?|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_400.wav|However, there is an issue, isn't there ?|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_401.wav|After the match, do you ?|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p227/p227_402.wav|Persuaded to change his mind.|0|2|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_354.wav|He is very concerned about his fitness as a footballer.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_355.wav|It's not pretty, but it's effective.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_356.wav|Equity declined to comment.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_357.wav|He later became a respected High Court judge.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_358.wav|The play is based on a real-life event.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_359.wav|We have to create a climate of trust, which is not easy.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_360.wav|The final decision was between Scotland and the Republic of Ireland.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_361.wav|He put some colour into Scottish history.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_362.wav|It took about an hour for the gas to clear.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_363.wav|I decided to tell a bit of the story about myself.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_364.wav|It is a simple equation.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_365.wav|So there, we won.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_366.wav|But I managed.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_367.wav|By that time, however, it was already too late.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_368.wav|I am not willing to say anything about any couple.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_369.wav|There is no signature.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_370.wav|It's a record label, not a form of music.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p228/p228_371.wav|It became a national network.|0|3|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_370.wav|He could make it.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_371.wav|He later became a respected High Court judge.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_373.wav|For one veteran, the memories remain vivid.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_374.wav|It is not too late to get on board.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_376.wav|It is a simple equation.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_377.wav|Talks are progressing.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_378.wav|They play together perfectly.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_379.wav|It's a long process.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_380.wav|Whether his stance is shared by the incoming manager is another matter.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_381.wav|It does not even have a staff shortage.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_382.wav|However, the players should have a voice in these matters.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_384.wav|It is obvious that we are engaged in a war.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_386.wav|Three years ago he would have been.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_387.wav|That team is due to be announced this morning.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_388.wav|It has been a lovely family occasion.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_389.wav|That's the name of the game, though.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_390.wav|There were no casualties.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_391.wav|A council spokesman said it had been a constructive meeting.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p229/p229_392.wav|Yet the data is compelling.|0|4|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_397.wav|Is there a waiting list ?|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_398.wav|Do they think anyone else wants them ?|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_399.wav|That investment has now been secured.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_400.wav|It is a large number.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_401.wav|You will not feel a thing.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_402.wav|I've never seen a game like it.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_404.wav|It does not even have a staff shortage.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_405.wav|It was a bank holiday, after all.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_406.wav|We're obviously disturbed by this case.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_407.wav|The casualties were not named.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_408.wav|It is a temptation which should be resisted.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_409.wav|It had been on the cards.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_410.wav|The second goal was superb.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_411.wav|Treatment is not an issue with these people.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_413.wav|Even if they come out playing a physical game, we can cope.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_414.wav|It is the old story.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_415.wav|This should put downward pressure on inflation.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_416.wav|No date has been set for a meeting.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p230/p230_417.wav|We have to build a new team in the minimum of time.|0|5|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_454.wav|Today, he is in the same position as four years ago.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_456.wav|They have to be met.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_457.wav|We think a lot of Allan McGregor.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_458.wav|She has reached the top of her profession.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_459.wav|But he has a lifeline.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_460.wav|A fatal accident inquiry is ongoing.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_461.wav|They were good years for him.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_462.wav|Let that be their memorial.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_463.wav|Nine days later, he suffered another attack.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_464.wav|Driving has been the key.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_465.wav|She has now been registered as disabled.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_466.wav|He is well respected by his colleagues.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_467.wav|Classes must be reduced by half.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_468.wav|War is not the action.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_469.wav|However, he held out little hope that the Government would take action.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_470.wav|It is too early to speculate.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_471.wav|Dennis was not so sure.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_472.wav|He felt it was the right time.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_473.wav|It was clear on Thursday.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_474.wav|The casting of her husband was an accident.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_475.wav|It was all in a short period of time.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p231/p231_476.wav|That was the first time I worked with Richard.|0|6|0
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_396.wav|I can lead by example.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_397.wav|I love the thought of having a crack at defending the title.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_398.wav|But they are still unlikely to be involved in combat.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_399.wav|Pupils were allowed home at lunchtime.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_400.wav|It will probably take me just days to spend it.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_401.wav|It is legally binding.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_402.wav|We knew nothing about it.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_403.wav|My house was shaking at the time.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_404.wav|This is a huge confidence boost.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_405.wav|We have not yet received a letter from the Irish.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_406.wav|He was a crazy man.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_407.wav|We should have known.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_408.wav|Feel the air, the space.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_409.wav|Quality Meat Scotland was vigorous in its defence of the labelling.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_410.wav|I was in a position to challenge for this event and didn't.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_411.wav|You wanted the evidence.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_412.wav|Senior management in Scotland threw its weight behind the orchestra.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_413.wav|It was that bad, that low.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_414.wav|I was very young.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p232/p232_415.wav|We have just got to keep his feet on the ground.|0|7|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_380.wav|This is an audience determined to enjoy themselves.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_381.wav|This is not a small amount of money.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_382.wav|The doctors say that he will be fine for the performance next week.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_383.wav|I just felt that I was broken down.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_384.wav|What do we do ?|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_385.wav|Why do it otherwise ?|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_386.wav|What kind of man does that, Mr Dick ?|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_387.wav|The cost of this failure will not hit the Commission.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_388.wav|Similar increases have been experienced by the medical defence unions.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_389.wav|He remains a main board director of Royal.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_390.wav|His record on Government has always been highly effective.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_391.wav|My tax affairs have been totally open.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_392.wav|Five years ago its return was rejected.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_393.wav|But soon the game dropped back into its old ways.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_394.wav|In my opinion, any transfer to a foreign club will help him progress.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_395.wav|In that situation, they thought we should be beaten.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_396.wav|We are keen to see truth and justice.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_397.wav|The report will go before the Scottish Parliament, probably in early autumn.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p243/p243_398.wav|People have a wish to charge twice.|0|8|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_385.wav|Star and producer were in agreement about their opinion of the director.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_386.wav|Family liaison officers are now working to support the family.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_387.wav|We have to reduce the number of plastic bags.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_388.wav|They really did a great job.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_389.wav|At the last I found a bunker.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_390.wav|Yet the data is compelling.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_391.wav|Perhaps the time has come to put the cup in a museum.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_392.wav|I would have loved to play in an Old Firm.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_393.wav|I'm pleased about one thing.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_394.wav|It is also claimed that he was murdered.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_395.wav|Apart from the result we have to be happy with our performance.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_396.wav|We're looking for justice.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_397.wav|I can lead by example.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_398.wav|Eriksson would have approved.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_399.wav|Pupils were allowed home at lunchtime.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_400.wav|It was a breathtaking moment.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_401.wav|It really is a gift to the world.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_402.wav|The car was just there.|0|9|1
+/workspace/disk/data/vctk_wav/VCTK-Corpus/wav48/p254/p254_403.wav|It was on fire.|0|9|1
