@@ -2,7 +2,7 @@
 Tacotron 2 + Global Style Token + Speaker embedding
 
 For multi-speaker TTS
-- Todo
+- Todo  
 Fine-grained prosody control & transfer
 
 ## Reference
